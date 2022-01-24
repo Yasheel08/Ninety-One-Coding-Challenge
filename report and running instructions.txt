@@ -6,5 +6,5 @@ I explained my code through the comments provided and I made use of mulitple if 
 
 One flaw in my program that I was not able to solve was if two numbers had a space between them like in the final example in the test input, I was not able to output that the number is invalid for that number.
 
-I used python as the programming langauge and I created this program using Pycharm and should work in other IDEs.Please view the input in the input.txt file provided and you may change the input in the file to further test the program if desired. 
+I used python as the programming langauge and I created this program using Pycharm and should run properly in this IDE.Please view the input in the input.txt file provided and you may change the input in the file to further test the program if desired. 
    
